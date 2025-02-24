@@ -1,0 +1,39 @@
+* {
+    background-color:rgb(17, 32, 32);
+    font-family: monospace;
+    color: aliceblue;
+    justify-self: center;
+    justify-content: center;
+}
+
+a {
+    color: rgb(255, 183, 3);
+}
+
+ol {
+    justify-self: left;
+}
+
+ul {
+    justify-self: left;
+}
+
+li {
+    justify-self: left;
+}
+
+.mainimg {
+    justify-content: center;
+}
+
+h3 {
+    justify-self: left;
+    font-weight: bolder;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+h1 {font-weight: bolder
+    ;}
